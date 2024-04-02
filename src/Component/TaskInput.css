@@ -1,0 +1,29 @@
+.Taskinput-main{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+    justify-content: space-around;
+}
+.Taskinput-main input{
+    padding: 0.3rem 0.5rem;
+   display: flex;
+   font-size: 1.3vw;
+   outline: none;
+   
+}
+.Taskinput-btn{
+    padding: 1rem 4rem;
+    font-size: 1.2vw;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: rgb(210, 210, 210);
+    border-radius: 5px;
+
+}
+.Taskinput-btn:hover{
+    background-color: rgb(241, 241, 241);
+    transition: 1s ease-out;
+}
+.inputdesc{
+    width: 40vw;
+}

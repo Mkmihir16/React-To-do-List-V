@@ -1,0 +1,62 @@
+
+.tasklist-header-table thead{
+    grid-template-columns: 1fr 2.2fr 1fr 1fr;
+    display: grid;
+    font-size: 3vw;
+}
+
+.tasklist-header-table tr{
+    grid-template-columns: 1fr 2.2fr 1fr 1fr;
+    display: grid;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(218, 218, 218);
+    margin-top: 1rem;
+    padding: 2.5rem 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.tasklist-header-table tr td{
+    font-size: 1.5vw;
+    padding: 0 0.5rem;
+}
+.tasklist-header-table tr td img{
+    cursor: pointer;
+}
+.tasklist-main1{
+    background-color: rgb(192, 192, 192)
+}
+.greenbtn{
+padding: 0.7rem 1.3rem;
+font-size: 1.3vw;
+color: white;
+background-color: rgb(23, 103, 23);
+cursor: pointer;
+border-radius: 5px;
+border: none;
+font-weight: 600;
+}
+.normalbt{
+padding: 0.7rem 1.3rem;
+font-size: 1.3vw;
+border-radius: 5px;
+border: none;
+font-weight: 600;
+cursor: pointer;
+}
+table{
+    display: grid;
+}
+.none-list img{
+height: 10vh;
+width: 6vw;
+
+}
+.none-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3vw;
+    gap: 3vw;
+
+}

@@ -1,0 +1,22 @@
+@media screen and (max-width:760px ){
+    .tasklist-header-table tr{
+        padding: 0.5rem 0;
+    }
+        .tasklist-header-table tr td{
+            font-size: 3vw;
+            padding: 0;
+        }
+   
+        .tasklist-header-table tr td button{
+            font-size: 2vw;
+            padding: 0.5rem 0.8rem;
+        }
+       .dltimg{
+        height: 4.5vh;
+        width: 4.5vw;
+       }
+       .none-list img{
+        height: 6vh;
+    width: 12vw;
+       }
+}

@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+.main-navbar{
+    height: 10vh;
+    background-color: black;
+    margin-bottom: 2rem ;
+    color: white;
+   display: flex;
+   align-items: center;
+    
+}
+.main-navbar h1{
+    margin-left: 2rem;
+}
