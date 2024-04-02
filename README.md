@@ -14,3 +14,8 @@ CSS
 JavaScript
 React JS
 React Redux Toolkit
+•How to Use<br>
+1.Simple add title and description of ypu task<br>
+2.You can automatically view you to do lists after press "add" button<br>
+3.You can delete tasks by press on delete icon<br>
+4.You can mark as completed /incomplete to you every task.
