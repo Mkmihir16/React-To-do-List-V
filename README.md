@@ -7,13 +7,13 @@ A simple To-Do List application that allows users to manage their tasks locally.
 →Add Task: Users can add new tasks to their to-do list.<br>
 →Delete Task: Users can delete tasks from their to-do list.<br>
 →Complete/Incomplete Task: Users can mark tasks as complete or incomplete.<br>
-→Local Storage: To-do tasks are stored permanently in the user's local storage.<br>
+→Local Storage: To-do tasks are stored permanently in the user's local storage.<br><br><br>
 •Technologies Used<br><br>
 →HTML<br>
 →CSS<br>
 →JavaScript<br>
 →React JS<br>
-→React Redux Toolkit<br>
+→React Redux Toolkit<br><br><br>
 •How to Use<br><br>
 1.Simple add title and description of ypu task<br>
 2.You can automatically view you to do lists after press "add" button<br>
