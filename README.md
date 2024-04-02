@@ -19,3 +19,4 @@ A simple To-Do List application that allows users to manage their tasks locally.
 2.You can automatically view you to do lists after press "add" button<br>
 3.You can delete tasks by press on delete icon<br>
 4.You can mark as completed /incomplete to you every task.
+![Preview](https://github.com/yourusername/your-repository/blob/main/screenshot.png)
